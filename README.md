@@ -14,11 +14,10 @@ A console-based ATM simulation program that supports:
 
 ## How to Run
 1. Make sure `info.txt` exists with a numeric balance (e.g., `5000`)
-2. Compile: `g++ atm.cpp -o atm.exe`
-3. Run: `atm.exe`
+2. Compile: `g++ atmup.cpp -o atmup.exe`
+3. Run: `./atmup`
 
-## Future Improvements
-- Hindi UI support
-- PIN encryption
-- GUI version (with Qt or C++/CLI)
+## Sample Output
+
+![image alt](https://github.com/Lalit-Mohan-Cloud/ATM-Simulation/blob/main/image.png?raw=true)
 
